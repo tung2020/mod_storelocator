@@ -6,7 +6,7 @@ Google map module for joomla
 1. Tải module từ kho lưu trữ hoặc nguồn cung cấp.
 2. Đăng nhập vào trang quản trị Joomla của bạn.
 3. Truy cập Extensions > Manage > Install.
-4.Tải tệp .zip của module và nhấp Upload & Install.
+4.Tải tệp zip của module và nhấp Upload & Install.
 5. Sau khi cài đặt thành công, module sẽ xuất hiện trong danh sách module của bạn.
    
 **Yêu cầu hệ thống**
