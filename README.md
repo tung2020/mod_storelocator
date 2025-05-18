@@ -1,5 +1,7 @@
 Google map module for joomla
+
 **Giới thiệu:** cho phép người dùng tìm kiếm vị trí bằng cách nhập thông tin vị trí hoặc kéo thả ghim đến vị trí mong muốn và lưu lại.
+
 **hướng dẫn cài đặt**
 1. Tải module từ kho lưu trữ hoặc nguồn cung cấp.
 2. Đăng nhập vào trang quản trị Joomla của bạn.
