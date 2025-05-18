@@ -6,9 +6,11 @@ Google map module for joomla
 3. Truy cập Extensions > Manage > Install.
 4.Tải tệp .zip của module và nhấp Upload & Install.
 5. Sau khi cài đặt thành công, module sẽ xuất hiện trong danh sách module của bạn.
+   
 **Yêu cầu hệ thống**
 Joomla phiên bản: 4.0 trở lên.
 PHP phiên bản: Tương thích với phiên bản PHP được hỗ trợ bởi Joomla 4.0.
+
 **hướng dẫn sử dụng**
 1. Truy cập Extensions > Modules.
 2. Tìm kiếm module "mod_storelocator" và nhấp vào để cấu hình.
