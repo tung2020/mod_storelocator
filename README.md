@@ -1,4 +1,5 @@
 Google map module for joomla
+
 tình trạng: dang cập nhật
 
 **Giới thiệu:** cho phép người dùng tìm kiếm vị trí bằng cách nhập thông tin vị trí hoặc kéo thả ghim đến vị trí mong muốn và lưu lại.
